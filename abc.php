@@ -5,8 +5,13 @@
 </head>
 <body>
 <?php
-echo 'hello User';
-echo 'hello User';
+
+echo 'curl get-o';
+echo 'curl get-o';
+
+
+echo 'curl get-o';
+
 echo 'hello User';
 echo 'hello User';
 echo 'ok';
