@@ -6,6 +6,7 @@
 <body>
 <?php
 echo 'hello User';
+echo 'ok';
 ?>
 </body>
 </html>
