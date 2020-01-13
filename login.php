@@ -8,8 +8,7 @@
 	echo 'Login Success';
 	echo 'Login Success';
 	echo 'Login Success';
-	echo 'Login Success';
-	
+	echo 'Login Success';	
 ?>
 </body>
 </html>
